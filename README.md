@@ -1,13 +1,13 @@
-# APP
+**# APP**
 API(Application Programming Interface) for fetching the news from a server. API will work as an interface between your application and server, it will bring news and you will display all those news in a RecyclerView in your application
 #Project as a part of Android Basics Nanodegree at Udacity
 
-# Project Overview
+**# Project Overview**
 The goal is to create a News Feed app which gives a user regularly-updated news from the internet related to a part
 API Key Note
 You need to insert your API key. Go to a file named Constants.java and find the value of API_KEY. Replace "test" with "YOUR-API-KEY".
 public static final String API_KEY = "YOUR-API-KEY";
-# Features
+**# Features**
 Navigation Drawer
 Fragments
 ViewPager plus TabLayout
@@ -19,7 +19,7 @@ Glide
 CardView
 RecyclerView
 SharedPreferences
-### Screenshots
+**### Screenshots**
 
 ![screenshot_main](https://user-images.githubusercontent.com/33213229/35278055-2862b4ae-008c-11e8-8bed-651025e5b6cc.png)
 ![screenshot_navi](https://user-images.githubusercontent.com/33213229/35278047-1f11fd2e-008c-11e8-97dc-3ee12654b703.png)
