@@ -3,11 +3,14 @@ API(Application Programming Interface) for fetching the news from a server. API 
 #Project as a part of Android Basics Nanodegree at Udacity
 
 **# Project Overview**
+
 The goal is to create a News Feed app which gives a user regularly-updated news from the internet related to a part
 API Key Note
 You need to insert your API key. Go to a file named Constants.java and find the value of API_KEY. Replace "test" with "YOUR-API-KEY".
 public static final String API_KEY = "YOUR-API-KEY";
+
 **# Features**
+
 Navigation Drawer
 Fragments
 ViewPager plus TabLayout
@@ -19,6 +22,7 @@ Glide
 CardView
 RecyclerView
 SharedPreferences
+
 **### Screenshots**
 
 ![screenshot_main](https://user-images.githubusercontent.com/33213229/35278055-2862b4ae-008c-11e8-8bed-651025e5b6cc.png)
